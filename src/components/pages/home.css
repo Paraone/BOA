@@ -1,0 +1,20 @@
+.home{
+
+}
+
+.home .options{
+  border-top: 1px solid black;
+  padding: 20px 0px;
+}
+
+.home .options .title{
+  font-weight: bold;
+}
+
+.home .btn.btn-primary{
+  padding: 10px 15px;
+  width: 100%;
+  max-width: 175px;
+  border: none;
+  border-radius: 0px;
+}
